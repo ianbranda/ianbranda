@@ -14,11 +14,13 @@ Programming languages I have experience with:
 Technologies I have worked with:
   - ReactJS
   - React Native
+  - NextJS
   - NodeJS
   - Django
   - Express
   - MongoDB
   - Firebase
+  - Flutter/Dart
   - jQuery
   - Arduino
   - RaspberryPi
@@ -27,7 +29,6 @@ Technologies I would like to continue to learn about:
   - Ethereum/Solidity
   - AngularJS
   - VueJS
-  - Flutter/Dart
   - iOS/Swift
   - Kotlin/Java
   - Unity
